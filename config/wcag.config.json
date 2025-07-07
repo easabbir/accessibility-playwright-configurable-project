@@ -1,0 +1,4 @@
+{
+  "wcagVersion": "wcag22aa", 
+  "reportLevels": ["must", "should", "may"]
+}

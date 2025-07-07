@@ -1,0 +1,12 @@
+{
+  "name": "accessibility-framework",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.9.1",
+    "@playwright/test": "^1.44.0",
+    "axe-html-reporter": "^2.2.11"
+  }
+}
